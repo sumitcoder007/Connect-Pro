@@ -1,17 +1,15 @@
-Connect Pro is a Zoom-like video conferencing app built with React, ZegoCloud, and Tailwind CSS. Host and join meetings, share screens, chat in real-time, and collaborate effortlessly.
+Connect Pro
+
+Connect Pro is a frontend-first video conferencing app built with React, ZegoCloud, and Tailwind CSS, offering real-time meetings, chat, and screen sharing directly in the browser.
 
 Features
 
-HD video & audio calls (ZegoCloud)
+✅ Fully frontend-based, no backend required
 
-Instant meeting creation & join via link
+✅ HD video & audio powered by ZegoCloud SDK
 
-Screen sharing & chat
+✅ Real-time chat and screen sharing
 
-Responsive design for desktop & mobile
+✅ Lightweight, fast, and responsive
 
-Tech Stack
-
-Frontend: React.js + Tailwind CSS
-
-Realtime: ZegoCloud SDK
+✅ Easy to integrate into web projects
